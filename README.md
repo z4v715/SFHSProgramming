@@ -1,2 +1,2 @@
 # SFHSProgramming
-SFHS Programming club repo!
+SFHS Programming club repository!
