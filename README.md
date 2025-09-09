@@ -1,5 +1,5 @@
 # SFHSProgramming
 
-SFHS Programming club repository!
+Welcome to the SFHS Programming Club repository!
 
-Here you can find an "answer" key for different projects we complete.
+
