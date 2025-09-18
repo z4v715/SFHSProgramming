@@ -16,6 +16,6 @@ Week 1: ####-#####-########
 Here you can find a number of different resources and materials to speed your learning.
 
 ### Python
-Syntax: https://www.w3schools.com/python/\
-Beginners Guide: https://wiki.python.org/moin/BeginnersGuide\
+Syntax: https://www.w3schools.com/python/ \ 
+Beginners Guide: https://wiki.python.org/moin/BeginnersGuide \ 
 Documentation: https://www.python.org/doc/
