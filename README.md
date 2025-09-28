@@ -10,7 +10,7 @@ You can also check here anytime after a project has been done to see possible so
 Leading up to the week of a project the schedule will only contain #'s. 
 Soon after we start a project a file containing a possible solution will be uploaded.
 
-Week 1: Rock-Paper-Scissors 
+Week 1: Rock-Paper-Scissors<br/>
 Week 2: ######### ###########
 
 ## Resources & Learning
