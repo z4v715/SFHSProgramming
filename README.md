@@ -11,7 +11,8 @@ Leading up to the week of a project the schedule will only contain #'s.
 Soon after we start a project a file containing a possible solution will be uploaded.
 
 Week 1: Rock-Paper-Scissors<br/>
-Week 2: ######### ###########
+Week 2: Maze Solver
+Week 3: ######### ###########
 
 ## Resources & Learning
 Here you can find a number of different resources and materials to speed your learning.
